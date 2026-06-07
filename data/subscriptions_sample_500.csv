@@ -1,0 +1,501 @@
+User_ID,Signup_Date,Region,Acquisition_Channel,Watch_Time_Mins,Quizzes_Completed,Converted_To_Paid,Subscription_Tier,Total_Revenue_INR
+USR097414,2025-12-11 00:00:00,South,Meta Ads,45.25,4,0,None (Expired Trial),0.0
+USR009139,2024-03-07 00:00:00,North,LinkedIn Business,38.61,5,1,Premium Annual,7999.0
+USR089079,2025-10-11 00:00:00,West,Meta Ads,96.31,12,1,Basic Monthly,499.0
+USR042333,2024-11-04 00:00:00,North,YouTube Organic,76.38,6,1,Basic Monthly,499.0
+USR036833,2024-09-24 00:00:00,North,Google Ads,165.08,22,0,None (Expired Trial),0.0
+USR013689,2024-04-09 00:00:00,South,Google Ads,57.1,6,1,Basic Monthly,499.0
+USR024156,2024-06-25 00:00:00,West,LinkedIn Business,11.63,0,0,None (Expired Trial),0.0
+USR051251,2025-01-08 00:00:00,East,Meta Ads,63.31,7,0,None (Expired Trial),0.0
+USR002443,2024-01-18 00:00:00,East,LinkedIn Business,30.44,3,0,None (Expired Trial),0.0
+USR081195,2025-08-15 00:00:00,North,YouTube Organic,128.15,11,1,Basic Monthly,499.0
+USR021063,2024-06-02 00:00:00,North,YouTube Organic,30.49,2,0,None (Expired Trial),0.0
+USR000656,2024-01-05 00:00:00,West,Meta Ads,93.34,10,1,Basic Monthly,499.0
+USR057844,2025-02-24 00:00:00,South,Meta Ads,153.06,19,1,Basic Monthly,499.0
+USR056508,2025-02-15 00:00:00,north,Google Ads,15.77,1,0,None (Expired Trial),0.0
+USR072297,2025-06-11 00:00:00,North,Meta Ads,62.63,5,0,None (Expired Trial),0.0
+USR026065,2024-07-08 00:00:00,South,YouTube Organic,22.5,2,0,None (Expired Trial),0.0
+USR014668,2024-04-16 00:00:00,North,Meta Ads,11.15,1,0,None (Expired Trial),0.0
+USR055602,2025-02-08 00:00:00,North,YouTube Organic,60.16,5,1,Basic Monthly,499.0
+USR086257,2025-09-20 00:00:00,East,Meta Ads,44.33,3,1,Basic Monthly,499.0
+USR029274,2024-08-01 00:00:00,West,YouTube Organic,48.18,2,0,None (Expired Trial),0.0
+USR085058,2025-09-11 00:00:00,South,Meta Ads,,7,0,None (Expired Trial),0.0
+USR069992,2025-05-26 00:00:00,East,YouTube Organic,60.38,4,0,None (Expired Trial),0.0
+USR087550,2025-09-30 00:00:00,South,LinkedIn Business,56.54,7,1,Basic Monthly,499.0
+USR026281,2024-07-10 00:00:00,East,Meta Ads,16.95,1,0,None (Expired Trial),0.0
+USR084741,2025-09-09 00:00:00,North,Google Ads,10.93,0,0,None (Expired Trial),0.0
+USR010217,2024-03-15 00:00:00,West,Google Ads,73.96,9,1,Premium Annual,7999.0
+USR017716,2024-05-09 00:00:00,North,Meta Ads,43.94,6,0,None (Expired Trial),0.0
+USR039433,2024-10-13 00:00:00,South,Google Ads,39.8,5,1,Premium Monthly,999.0
+USR033309,2024-08-30 00:00:00,north,Meta Ads,186.78,13,1,Premium Monthly,999.0
+USR006665,2024-02-18 00:00:00,North,Google Ads,19.69,1,0,None (Expired Trial),0.0
+USR079345,2025-08-01 00:00:00,North,YouTube Organic,27.59,3,0,None (Expired Trial),0.0
+USR067246,2025-05-06 00:00:00,North,Google Ads,125.17,11,1,Basic Monthly,499.0
+USR007292,2024-02-23 00:00:00,South,Google Ads,29.71,1,0,None (Expired Trial),0.0
+USR029178,2024-08-01 00:00:00,South,Meta Ads,73.65,4,0,None (Expired Trial),0.0
+USR065798,2025-04-25 00:00:00,South,Google Ads,82.25,8,1,Basic Monthly,499.0
+USR085034,2025-09-11 00:00:00,South,Meta Ads,83.1,10,1,Premium Monthly,999.0
+USR033200,2024-08-29 00:00:00,North,LinkedIn Business,95.84,6,0,None (Expired Trial),0.0
+USR044475,2024-11-20 00:00:00,West,Google Ads,78.89,8,1,Basic Monthly,499.0
+USR093653,2025-11-13 00:00:00,West,Meta Ads,40.03,2,0,None (Expired Trial),0.0
+USR091781,2025-10-30 00:00:00,East,YouTube Organic,13.08,1,0,None (Expired Trial),0.0
+USR069895,2025-05-25 00:00:00,West,Google Ads,29.52,2,0,None (Expired Trial),0.0
+USR038443,2024-10-06 00:00:00,East,Google Ads,43.92,2,1,Basic Monthly,499.0
+USR005938,2024-02-13 00:00:00,East,Meta Ads,7.49,0,0,None (Expired Trial),0.0
+USR017156,2024-05-04 00:00:00,North ,YouTube Organic,85.57,11,1,Basic Monthly,499.0
+USR034828,2024-09-10 00:00:00,East,Meta Ads,40.22,4,0,None (Expired Trial),0.0
+USR020921,2024-06-01 00:00:00,North,Google Ads,30.19,2,0,None (Expired Trial),0.0
+USR060945,2025-03-19 00:00:00,West,Google Ads,14.11,0,0,None (Expired Trial),0.0
+USR027459,2024-07-19 00:00:00,North,YouTube Organic,68.32,9,1,Basic Monthly,499.0
+USR066279,2025-04-29 00:00:00,West,Google Ads,82.9,4,1,Premium Monthly,999.0
+USR066955,2025-05-03 00:00:00,South,Google Ads,143.75,16,1,Premium Monthly,999.0
+USR051302,2025-01-08 00:00:00,North,Meta Ads,60.31,8,0,None (Expired Trial),0.0
+USR032083,2024-08-20 00:00:00,West,YouTube Organic,14.73,1,0,None (Expired Trial),0.0
+USR043818,2024-11-15 00:00:00,north,Meta Ads,,16,0,None (Expired Trial),0.0
+USR080411,2025-08-09 00:00:00,East,Meta Ads,12.07,0,0,None (Expired Trial),0.0
+USR022272,2024-06-11 00:00:00,North,Meta Ads,30.0,1,0,None (Expired Trial),0.0
+USR066155,2025-04-28 00:00:00,East,Meta Ads,28.78,1,0,None (Expired Trial),0.0
+USR092230,2025-11-03 00:00:00,South,Google Ads,27.09,2,0,None (Expired Trial),0.0
+USR028222,2024-07-25 00:00:00,North,Google Ads,22.18,2,0,None (Expired Trial),0.0
+USR026308,2024-07-10 00:00:00,North,YouTube Organic,86.56,7,1,Basic Monthly,499.0
+USR098194,2025-12-17 00:00:00,East,YouTube Organic,15.99,2,0,None (Expired Trial),0.0
+USR096928,2025-12-07 00:00:00,North,YouTube Organic,60.01,3,1,Basic Monthly,499.0
+USR037778,2024-10-01 00:00:00,East,YouTube Organic,204.21,12,0,None (Expired Trial),0.0
+USR055980,2025-02-11 00:00:00,East,Meta Ads,10.81,1,0,None (Expired Trial),0.0
+USR017600,2024-05-08 00:00:00,South,Meta Ads,35.4,4,0,None (Expired Trial),0.0
+USR004700,2024-02-04 00:00:00,North,Google Ads,220.39,19,1,Premium Annual,7999.0
+USR039376,2024-10-13 00:00:00,South,Meta Ads,23.52,3,0,None (Expired Trial),0.0
+USR071330,2025-06-04 00:00:00,East,Google Ads,37.18,4,0,None (Expired Trial),0.0
+USR076263,2025-07-10 00:00:00,North,Meta Ads,27.68,1,0,None (Expired Trial),0.0
+USR008410,2024-03-02 00:00:00,East,LinkedIn Business,-14.99,1,0,None (Expired Trial),0.0
+USR075715,2025-07-06 00:00:00,West ,Google Ads,70.16,9,1,Premium Monthly,999.0
+USR042167,2024-11-02 00:00:00,West,YouTube Organic,21.05,1,1,Premium Monthly,999.0
+USR099093,2025-12-24 00:00:00,East,Meta Ads,82.67,8,0,None (Expired Trial),0.0
+USR077253,2025-07-17 00:00:00,North,Meta Ads,75.15,9,1,Basic Monthly,499.0
+USR010603,2024-03-18 00:00:00,South,YouTube Organic,44.77,2,0,None (Expired Trial),0.0
+USR084538,2025-09-07 00:00:00,North,LinkedIn Business,53.21,5,1,Basic Monthly,499.0
+USR072689,2025-06-14 00:00:00,North,Meta Ads,106.82,5,0,None (Expired Trial),0.0
+USR063232,2025-04-06 00:00:00,South,Google Ads,60.96,5,0,None (Expired Trial),0.0
+USR083820,2025-09-02 00:00:00,North,Meta Ads,234.55,24,1,Premium Annual,7999.0
+USR034452,2024-09-07 00:00:00,North,Meta Ads,28.93,1,0,None (Expired Trial),0.0
+USR064253,2025-04-13 00:00:00,North,Google Ads,84.99,7,0,None (Expired Trial),0.0
+USR028581,2024-07-27 00:00:00,North,Meta Ads,99.2,13,1,Premium Annual,7999.0
+USR007078,2024-02-21 00:00:00,North,YouTube Organic,227.64,33,1,Premium Monthly,999.0
+USR065236,2025-04-21 00:00:00,south,YouTube Organic,17.71,1,0,None (Expired Trial),0.0
+USR082182,2025-08-22 00:00:00,West,Google Ads,46.27,4,0,None (Expired Trial),0.0
+USR067755,2025-05-10 00:00:00,North,LinkedIn Business,40.16,4,0,None (Expired Trial),0.0
+USR016679,2024-05-01 00:00:00,North,,165.94,9,1,Premium Annual,7999.0
+USR011857,2024-03-27 00:00:00,North,Google Ads,24.02,2,0,None (Expired Trial),0.0
+USR038194,2024-10-04 00:00:00,North,LinkedIn Business,52.28,6,1,Basic Monthly,499.0
+USR027457,2024-07-19 00:00:00,North,Meta Ads,57.42,7,1,Basic Monthly,499.0
+USR058251,2025-02-27 00:00:00,East,Meta Ads,27.36,1,0,None (Expired Trial),0.0
+USR087558,2025-09-30 00:00:00,South,Google Ads,201.8,28,1,Basic Monthly,499.0
+USR018343,2024-05-13 00:00:00,South,YouTube Organic,24.2,2,0,None (Expired Trial),0.0
+USR047034,2024-12-08 00:00:00,South,Google Ads,36.1,1,0,None (Expired Trial),0.0
+USR033151,2024-08-28 00:00:00,South,Google Ads,7.29,0,0,None (Expired Trial),0.0
+USR071015,2025-06-02 00:00:00,North,Google Ads,53.01,6,1,Basic Monthly,499.0
+USR095059,2025-11-24 00:00:00,South,Google Ads,30.46,2,0,None (Expired Trial),0.0
+USR014897,2024-04-18 00:00:00,West,YouTube Organic,74.67,5,1,Premium Monthly,999.0
+USR092169,2025-11-02 00:00:00,East,Meta Ads,13.25,1,0,None (Expired Trial),0.0
+USR001550,2024-01-12 00:00:00,North,Meta Ads,71.14,9,1,Premium Monthly,999.0
+USR096484,2025-12-04 00:00:00,South,Meta Ads,126.96,18,0,None (Expired Trial),0.0
+USR014020,2024-04-12 00:00:00,North,Meta Ads,45.44,2,0,None (Expired Trial),0.0
+USR016766,2024-05-01 00:00:00,South,Google Ads,21.24,1,0,None (Expired Trial),0.0
+USR089323,2025-10-13 00:00:00,East,Meta Ads,32.63,3,0,None (Expired Trial),0.0
+USR032913,2024-08-27 00:00:00,North,Meta Ads,36.67,5,0,None (Expired Trial),0.0
+USR051615,2025-01-10 00:00:00,North,Meta Ads,53.19,6,0,None (Expired Trial),0.0
+USR037883,2024-10-02 00:00:00,North,Google Ads,-20.08,1,0,None (Expired Trial),0.0
+USR093578,2025-11-13 00:00:00,North,Google Ads,77.82,8,1,Basic Monthly,499.0
+USR065084,2025-04-20 00:00:00,East,Meta Ads,20.41,1,0,None (Expired Trial),0.0
+USR080779,2025-08-12 00:00:00,North,Meta Ads,87.19,9,1,Basic Monthly,499.0
+USR068411,2025-05-14 00:00:00,North,Meta Ads,36.33,1,0,None (Expired Trial),0.0
+USR038252,2024-10-04 00:00:00,North,Meta Ads,73.14,6,1,Basic Monthly,499.0
+USR046552,2024-12-04 00:00:00,West,Google Ads,106.78,6,1,Premium Monthly,999.0
+USR092688,2025-11-06 00:00:00,East,Meta Ads,19.75,2,0,None (Expired Trial),0.0
+USR057012,2025-02-18 00:00:00,South,Meta Ads,93.95,9,1,Premium Annual,7999.0
+USR040805,2024-10-23 00:00:00,North,Google Ads,34.39,4,0,None (Expired Trial),0.0
+USR049637,2024-12-27 00:00:00,North,Google Ads,100.07,10,1,Premium Monthly,999.0
+USR047608,2024-12-12 00:00:00,North,Meta Ads,39.78,2,0,None (Expired Trial),0.0
+USR024053,2024-06-24 00:00:00,South,Meta Ads,32.12,3,0,None (Expired Trial),0.0
+USR093993,2025-11-16 00:00:00,North,Google Ads,26.97,1,0,None (Expired Trial),0.0
+USR097113,2025-12-09 00:00:00,South,Meta Ads,8.83,1,0,None (Expired Trial),0.0
+USR039646,2024-10-15 00:00:00,South,YouTube Organic,34.25,4,0,None (Expired Trial),0.0
+USR058932,2025-03-04 00:00:00,West,Google Ads,60.78,5,1,Premium Monthly,999.0
+USR030063,2024-08-06 00:00:00,West ,Google Ads,55.01,4,1,Premium Annual,7999.0
+USR056232,2025-02-13 00:00:00,East,LinkedIn Business,108.25,7,1,Premium Monthly,999.0
+USR063391,2025-04-07 00:00:00,East,YouTube Organic,95.02,8,0,None (Expired Trial),0.0
+USR061329,2025-03-22 00:00:00,East,Meta Ads,42.48,3,0,None (Expired Trial),0.0
+USR084241,2025-09-05 00:00:00,West,Google Ads,29.1,2,0,None (Expired Trial),0.0
+USR020760,2024-05-31 00:00:00,West,Meta Ads,41.59,2,1,Basic Monthly,499.0
+USR029245,2024-08-01 00:00:00,East,Meta Ads,37.97,2,0,None (Expired Trial),0.0
+USR033932,2024-09-03 00:00:00,South,Google Ads,63.74,4,0,None (Expired Trial),0.0
+USR007778,2024-02-26 00:00:00,West,YouTube Organic,52.17,3,1,Basic Monthly,499.0
+USR086932,2025-09-25 00:00:00,North,Meta Ads,20.2,2,0,None (Expired Trial),0.0
+USR033178,2024-08-29 00:00:00,North,,58.15,3,1,Premium Monthly,999.0
+USR028264,2024-07-25 00:00:00,East,Google Ads,36.09,1,0,None (Expired Trial),0.0
+USR048654,2024-12-20 00:00:00,east,Meta Ads,44.27,6,0,None (Expired Trial),0.0
+USR075736,2025-07-06 00:00:00,West,Google Ads,99.51,9,1,Basic Monthly,499.0
+USR090562,2025-10-22 00:00:00,South,LinkedIn Business,51.45,7,0,None (Expired Trial),0.0
+USR017269,2024-05-05 00:00:00,N_Reg,Google Ads,40.97,4,0,None (Expired Trial),0.0
+USR066668,2025-05-01 00:00:00,North,Meta Ads,27.01,1,0,None (Expired Trial),0.0
+USR067053,2025-05-04 00:00:00,North,Google Ads,42.04,4,1,Premium Annual,7999.0
+USR036417,2024-09-21 00:00:00,west,Google Ads,76.27,8,0,None (Expired Trial),0.0
+USR049562,2024-12-27 00:00:00,North,Meta Ads,20.38,2,0,None (Expired Trial),0.0
+USR026588,2024-07-12 00:00:00,south,YouTube Organic,8.64,0,0,None (Expired Trial),0.0
+USR017083,2024-05-04 00:00:00,West,Google Ads,78.42,5,0,None (Expired Trial),0.0
+USR083529,2025-08-31 00:00:00,North,Google Ads,41.49,3,0,None (Expired Trial),0.0
+USR034146,2024-09-04 00:00:00,North,,75.48,8,1,Basic Monthly,499.0
+USR069355,2025-05-21 00:00:00,North,LinkedIn Business,43.82,3,1,Premium Monthly,999.0
+USR063717,2025-04-09 00:00:00,West,Google Ads,26.25,1,0,None (Expired Trial),0.0
+USR040117,2024-10-18 00:00:00,North,YouTube Organic,53.54,4,1,Premium Monthly,999.0
+USR033359,2024-08-30 00:00:00,North,Google Ads,85.82,9,0,None (Expired Trial),0.0
+USR059087,2025-03-06 00:00:00,South,Meta Ads,113.02,5,0,None (Expired Trial),0.0
+USR029309,2024-08-01 00:00:00,South,YouTube Organic,38.71,1,0,None (Expired Trial),0.0
+USR002340,2024-01-18 00:00:00,West,LinkedIn Business,80.24,5,0,None (Expired Trial),0.0
+USR018814,2024-05-17 00:00:00,North,Google Ads,22.12,2,0,None (Expired Trial),0.0
+USR046485,2024-12-04 00:00:00,South,Google Ads,107.86,14,1,Basic Monthly,499.0
+USR035440,2024-09-14 00:00:00,East,Meta Ads,140.85,14,0,None (Expired Trial),0.0
+USR046726,2024-12-06 00:00:00,East,YouTube Organic,44.37,6,0,None (Expired Trial),0.0
+USR064363,2025-04-14 00:00:00,South,YouTube Organic,32.84,4,0,None (Expired Trial),0.0
+USR017347,2024-05-06 00:00:00,North,Google Ads,22.89,2,0,None (Expired Trial),0.0
+USR062315,2025-03-30 00:00:00,North,Google Ads,21.23,2,0,None (Expired Trial),0.0
+USR078876,2025-07-28 00:00:00,East,Meta Ads,43.12,2,0,None (Expired Trial),0.0
+USR075289,2025-07-03 00:00:00,north,Meta Ads,47.73,3,0,None (Expired Trial),0.0
+USR011542,2024-03-25 00:00:00,North,Google Ads,58.32,4,0,None (Expired Trial),0.0
+USR057701,2025-02-23 00:00:00,West,Google Ads,35.46,5,0,None (Expired Trial),0.0
+USR005344,2024-02-08 00:00:00,S_Reg,Google Ads,18.9,2,0,None (Expired Trial),0.0
+USR063553,2025-04-08 00:00:00,North,Google Ads,11.61,0,0,None (Expired Trial),0.0
+USR080233,2025-08-07 00:00:00,South,Google Ads,58.62,7,1,Basic Monthly,499.0
+USR016911,2024-05-02 00:00:00,North,Google Ads,11.54,1,0,None (Expired Trial),0.0
+USR077884,2025-07-21 00:00:00,North,Meta Ads,13.28,1,0,None (Expired Trial),0.0
+USR000950,2024-01-08 00:00:00,North,Meta Ads,29.35,3,0,None (Expired Trial),0.0
+USR013414,2024-04-07 00:00:00,South,Meta Ads,22.31,3,0,None (Expired Trial),0.0
+USR085857,2025-09-17 00:00:00,East,YouTube Organic,81.3,10,1,Premium Monthly,999.0
+USR043693,2024-11-14 00:00:00,East,Google Ads,20.91,2,0,None (Expired Trial),0.0
+USR054483,2025-01-31 00:00:00,West,Google Ads,,2,0,None (Expired Trial),0.0
+USR046962,2024-12-07 00:00:00,N_Reg,Google Ads,135.14,11,1,Basic Monthly,499.0
+USR044146,2024-11-17 00:00:00,South,Google Ads,,8,0,None (Expired Trial),0.0
+USR030860,2024-08-12 00:00:00,East,Google Ads,49.32,3,0,None (Expired Trial),0.0
+USR056872,2025-02-17 00:00:00,North,LinkedIn Business,34.76,4,1,Basic Monthly,499.0
+USR023336,2024-06-19 00:00:00,west,Meta Ads,61.12,5,1,Basic Monthly,499.0
+USR020073,2024-05-26 00:00:00,North,LinkedIn Business,14.94,2,0,None (Expired Trial),0.0
+USR011406,2024-03-24 00:00:00,South,Meta Ads,22.51,1,0,None (Expired Trial),0.0
+USR086879,2025-09-25 00:00:00,South,Google Ads,34.96,4,0,None (Expired Trial),0.0
+USR062153,2025-03-28 00:00:00,N_Reg,Meta Ads,45.05,3,0,None (Expired Trial),0.0
+USR087268,2025-09-28 00:00:00,South ,Meta Ads,47.19,3,0,None (Expired Trial),0.0
+USR012480,2024-03-31 00:00:00,North,YouTube Organic,43.44,2,0,None (Expired Trial),0.0
+USR075217,2025-07-02 00:00:00,East,Meta Ads,52.24,2,1,Premium Monthly,999.0
+USR036593,2024-09-22 00:00:00,North,YouTube Organic,24.17,3,0,None (Expired Trial),0.0
+USR046200,2024-12-02 00:00:00,West,Meta Ads,76.56,7,0,None (Expired Trial),0.0
+USR054157,2025-01-29 00:00:00,North ,Meta Ads,56.45,3,1,Premium Monthly,999.0
+USR030148,2024-08-07 00:00:00,South,Google Ads,40.82,4,1,Basic Monthly,499.0
+USR076491,2025-07-11 00:00:00,S_Reg,Google Ads,32.12,2,0,None (Expired Trial),0.0
+USR092767,2025-11-07 00:00:00,North,LinkedIn Business,15.1,2,0,None (Expired Trial),0.0
+USR073574,2025-06-20 00:00:00,West,Google Ads,58.25,2,0,None (Expired Trial),0.0
+USR024902,2024-06-30 00:00:00,North,LinkedIn Business,23.65,1,0,None (Expired Trial),0.0
+USR040796,2024-10-23 00:00:00,S_Reg,Meta Ads,,4,0,None (Expired Trial),0.0
+USR049658,2024-12-27 00:00:00,South,Google Ads,273.52,35,1,Basic Monthly,499.0
+USR012991,2024-04-04 00:00:00,North,Google Ads,44.77,5,1,Basic Monthly,499.0
+USR067103,2025-05-05 00:00:00,West,Google Ads,88.93,10,1,Basic Monthly,499.0
+USR008806,2024-03-05 00:00:00,South,Google Ads,16.43,2,0,None (Expired Trial),0.0
+USR077844,2025-07-21 00:00:00,South,LinkedIn Business,17.85,2,0,None (Expired Trial),0.0
+USR034979,2024-09-11 00:00:00,South,Google Ads,67.32,5,0,None (Expired Trial),0.0
+USR010927,2024-03-20 00:00:00,North,Google Ads,,3,0,None (Expired Trial),0.0
+USR091848,2025-10-31 00:00:00,West,LinkedIn Business,89.86,6,1,Premium Monthly,999.0
+USR011193,2024-03-22 00:00:00,South,YouTube Organic,23.45,1,0,None (Expired Trial),0.0
+USR001138,2024-01-09 00:00:00,East,Google Ads,50.78,7,1,Premium Annual,7999.0
+USR085316,2025-09-13 00:00:00,West,Google Ads,32.28,1,0,None (Expired Trial),0.0
+USR042016,2024-11-01 00:00:00,North,Google Ads,17.55,2,1,Basic Monthly,499.0
+USR090066,2025-10-18 00:00:00,South,Meta Ads,17.28,2,0,None (Expired Trial),0.0
+USR041725,2024-10-30 00:00:00,South,Google Ads,70.36,4,1,Basic Monthly,499.0
+USR092730,2025-11-06 00:00:00,East,Google Ads,35.16,3,0,None (Expired Trial),0.0
+USR034224,2024-09-05 00:00:00,North,Google Ads,62.64,8,0,None (Expired Trial),0.0
+USR094557,2025-11-20 00:00:00,W_Reg,Meta Ads,110.05,12,1,Premium Annual,7999.0
+USR030924,2024-08-12 00:00:00,West,Google Ads,230.13,25,1,Premium Monthly,999.0
+USR011888,2024-03-27 00:00:00,North,Meta Ads,23.61,1,0,None (Expired Trial),0.0
+USR063184,2025-04-05 00:00:00,South,Google Ads,25.61,1,0,None (Expired Trial),0.0
+USR042922,2024-11-08 00:00:00,North,Meta Ads,36.97,3,0,None (Expired Trial),0.0
+USR069481,2025-05-22 00:00:00,North,Google Ads,15.41,2,0,None (Expired Trial),0.0
+USR065464,2025-04-22 00:00:00,East,Google Ads,129.76,7,0,None (Expired Trial),0.0
+USR007135,2024-02-21 00:00:00,North,Google Ads,59.86,7,0,None (Expired Trial),0.0
+USR032878,2024-08-26 00:00:00,South,YouTube Organic,105.58,14,1,Premium Monthly,999.0
+USR086749,2025-09-24 00:00:00,South,YouTube Organic,55.78,8,0,None (Expired Trial),0.0
+USR085472,2025-09-14 00:00:00,West,Google Ads,73.72,6,0,None (Expired Trial),0.0
+USR046425,2024-12-04 00:00:00,East,Meta Ads,37.26,2,0,None (Expired Trial),0.0
+USR066649,2025-05-01 00:00:00,North,YouTube Organic,148.87,9,1,Basic Monthly,499.0
+USR099926,2025-12-30 00:00:00,North,YouTube Organic,18.99,2,0,None (Expired Trial),0.0
+USR009170,2024-03-08 00:00:00,North,Meta Ads,12.91,1,0,None (Expired Trial),0.0
+USR045906,2024-11-30 00:00:00,North,Meta Ads,38.28,3,0,None (Expired Trial),0.0
+USR097873,2025-12-15 00:00:00,South,Meta Ads,19.37,1,0,None (Expired Trial),0.0
+USR000887,2024-01-07 00:00:00,East,Meta Ads,32.53,2,0,None (Expired Trial),0.0
+USR089966,2025-10-17 00:00:00,E_Reg,YouTube Organic,10.56,0,0,None (Expired Trial),0.0
+USR017776,2024-05-09 00:00:00,North,Google Ads,60.8,3,1,Premium Annual,7999.0
+USR099717,2025-12-28 00:00:00,west,Meta Ads,18.47,2,0,None (Expired Trial),0.0
+USR006836,2024-02-19 00:00:00,East,Meta Ads,56.9,2,0,None (Expired Trial),0.0
+USR031651,2024-08-18 00:00:00,South,Google Ads,93.47,12,1,Basic Monthly,499.0
+USR091061,2025-10-25 00:00:00,North,,127.24,13,1,Premium Monthly,999.0
+USR033082,2024-08-28 00:00:00,North,YouTube Organic,94.38,11,1,Premium Annual,7999.0
+USR039495,2024-10-14 00:00:00,South,Meta Ads,,5,1,Basic Monthly,499.0
+USR043834,2024-11-15 00:00:00,South,,133.56,9,1,Basic Monthly,499.0
+USR028239,2024-07-25 00:00:00,South,Google Ads,128.05,13,1,Basic Monthly,499.0
+USR003738,2024-01-27 00:00:00,West,Google Ads,96.81,6,0,None (Expired Trial),0.0
+USR070910,2025-06-01 00:00:00,West,Meta Ads,150.23,21,1,Basic Monthly,499.0
+USR088588,2025-10-08 00:00:00,East,Meta Ads,92.99,8,0,None (Expired Trial),0.0
+USR076128,2025-07-09 00:00:00,West ,Meta Ads,67.66,7,0,None (Expired Trial),0.0
+USR091101,2025-10-25 00:00:00,North,YouTube Organic,148.23,8,0,None (Expired Trial),0.0
+USR006932,2024-02-20 00:00:00,South,Meta Ads,38.69,3,0,None (Expired Trial),0.0
+USR021886,2024-06-08 00:00:00,North,Google Ads,62.37,4,1,Premium Monthly,999.0
+USR097964,2025-12-15 00:00:00,West,Google Ads,18.44,1,0,None (Expired Trial),0.0
+USR081261,2025-08-15 00:00:00,North,Google Ads,83.05,7,1,Basic Monthly,499.0
+USR061003,2025-03-20 00:00:00,East,Meta Ads,38.06,5,0,None (Expired Trial),0.0
+USR024324,2024-06-26 00:00:00,North,Meta Ads,23.46,1,0,None (Expired Trial),0.0
+USR019784,2024-05-24 00:00:00,North,,25.57,3,0,None (Expired Trial),0.0
+USR007733,2024-02-26 00:00:00,North,,33.37,2,0,None (Expired Trial),0.0
+USR016727,2024-05-01 00:00:00,West,Google Ads,33.11,4,0,None (Expired Trial),0.0
+USR013736,2024-04-10 00:00:00,North,Google Ads,19.72,2,0,None (Expired Trial),0.0
+USR055046,2025-02-04 00:00:00,North,Google Ads,99.83,8,1,Premium Monthly,999.0
+USR038394,2024-10-05 00:00:00,West,Google Ads,60.22,8,0,None (Expired Trial),0.0
+USR072261,2025-06-11 00:00:00,South,Google Ads,23.1,2,1,Premium Monthly,999.0
+USR005407,2024-02-09 00:00:00,West,Meta Ads,25.69,2,0,None (Expired Trial),0.0
+USR019742,2024-05-24 00:00:00,North,Meta Ads,22.49,1,0,None (Expired Trial),0.0
+USR040825,2024-10-23 00:00:00,South,Meta Ads,196.2,24,1,Premium Monthly,999.0
+USR023432,2024-06-19 00:00:00,East,Google Ads,127.67,13,1,Basic Monthly,499.0
+USR072622,2025-06-13 00:00:00,North,Meta Ads,22.13,2,0,None (Expired Trial),0.0
+USR031777,2024-08-18 00:00:00,South,YouTube Organic,9.28,0,0,None (Expired Trial),0.0
+USR092034,2025-11-01 00:00:00,North,YouTube Organic,27.66,2,0,None (Expired Trial),0.0
+USR079798,2025-08-04 00:00:00,north,LinkedIn Business,10.23,0,1,Basic Monthly,499.0
+USR067683,2025-05-09 00:00:00,South,YouTube Organic,20.79,1,0,None (Expired Trial),0.0
+USR078099,2025-07-23 00:00:00,South,Google Ads,31.05,2,0,None (Expired Trial),0.0
+USR016758,2024-05-01 00:00:00,West,Meta Ads,17.73,1,0,None (Expired Trial),0.0
+USR025332,2024-07-03 00:00:00,South,YouTube Organic,33.7,2,0,None (Expired Trial),0.0
+USR079899,2025-08-05 00:00:00,North,Google Ads,43.9,4,0,None (Expired Trial),0.0
+USR066429,2025-04-30 00:00:00,West,Meta Ads,70.9,9,1,Basic Monthly,499.0
+USR017742,2024-05-09 00:00:00,North,,52.69,7,0,None (Expired Trial),0.0
+USR030001,2024-08-06 00:00:00,East,Meta Ads,48.37,2,1,Premium Monthly,999.0
+USR047393,2024-12-10 00:00:00,North,LinkedIn Business,16.75,1,0,None (Expired Trial),0.0
+USR045200,2024-11-25 00:00:00,East,Google Ads,27.74,3,0,None (Expired Trial),0.0
+USR019437,2024-05-21 00:00:00,North,Google Ads,52.95,6,0,None (Expired Trial),0.0
+USR051810,2025-01-12 00:00:00,North,Google Ads,27.67,1,0,None (Expired Trial),0.0
+USR022610,2024-06-13 00:00:00,West,YouTube Organic,80.36,5,1,Premium Monthly,999.0
+USR094310,2025-11-18 00:00:00,East,Google Ads,110.08,6,0,None (Expired Trial),0.0
+USR069171,2025-05-20 00:00:00,West,LinkedIn Business,27.58,2,0,None (Expired Trial),0.0
+USR000227,2024-01-02 00:00:00,West,Meta Ads,13.83,0,0,None (Expired Trial),0.0
+USR038017,2024-10-03 00:00:00,North,Google Ads,21.65,2,0,None (Expired Trial),0.0
+USR034920,2024-09-11 00:00:00,north,Google Ads,44.72,2,0,None (Expired Trial),0.0
+USR049414,2024-12-26 00:00:00,West,Meta Ads,108.97,13,1,Premium Annual,7999.0
+USR012266,2024-03-30 00:00:00,East,YouTube Organic,39.16,1,0,None (Expired Trial),0.0
+USR020165,2024-05-26 00:00:00,South,Google Ads,26.44,3,0,None (Expired Trial),0.0
+USR060838,2025-03-18 00:00:00,South,Google Ads,75.74,8,0,None (Expired Trial),0.0
+USR036553,2024-09-22 00:00:00,North,YouTube Organic,46.48,3,1,Basic Monthly,499.0
+USR025881,2024-07-07 00:00:00,East,YouTube Organic,33.58,1,0,None (Expired Trial),0.0
+USR089319,2025-10-13 00:00:00,South,Google Ads,77.98,10,1,Basic Monthly,499.0
+USR084135,2025-09-04 00:00:00,East,Meta Ads,37.75,3,0,None (Expired Trial),0.0
+USR094012,2025-11-16 00:00:00,N_Reg,Meta Ads,86.5,4,1,Premium Annual,7999.0
+USR053618,2025-01-25 00:00:00,North,Meta Ads,100.64,12,1,Basic Monthly,499.0
+USR025835,2024-07-07 00:00:00,South,Google Ads,13.58,1,0,None (Expired Trial),0.0
+USR003167,2024-01-23 00:00:00,West,LinkedIn Business,51.93,7,1,Basic Monthly,499.0
+USR096333,2025-12-03 00:00:00,West,Google Ads,60.64,5,0,None (Expired Trial),0.0
+USR031503,2024-08-16 00:00:00,North,Google Ads,18.53,2,0,None (Expired Trial),0.0
+USR098111,2025-12-17 00:00:00,South,Meta Ads,31.92,1,0,None (Expired Trial),0.0
+USR025353,2024-07-03 00:00:00,North,Meta Ads,61.89,6,0,None (Expired Trial),0.0
+USR095092,2025-11-24 00:00:00,S_Reg,Meta Ads,27.53,2,0,None (Expired Trial),0.0
+USR035228,2024-09-13 00:00:00,West,YouTube Organic,-84.99,4,0,None (Expired Trial),0.0
+USR001719,2024-01-13 00:00:00,East,YouTube Organic,84.95,8,1,Premium Annual,7999.0
+USR083201,2025-08-29 00:00:00,South,Meta Ads,22.98,1,0,None (Expired Trial),0.0
+USR004080,2024-01-30 00:00:00,north,Meta Ads,58.87,4,0,None (Expired Trial),0.0
+USR063482,2025-04-07 00:00:00,East,YouTube Organic,140.85,14,1,Premium Monthly,999.0
+USR055237,2025-02-06 00:00:00,East,YouTube Organic,103.78,14,1,Basic Monthly,499.0
+USR021339,2024-06-04 00:00:00,south,Google Ads,70.01,3,0,None (Expired Trial),0.0
+USR000884,2024-01-07 00:00:00,West,YouTube Organic,52.34,6,0,None (Expired Trial),0.0
+USR035138,2024-09-12 00:00:00,East,Meta Ads,19.13,2,0,None (Expired Trial),0.0
+USR017580,2024-05-08 00:00:00,West,Meta Ads,67.59,9,0,None (Expired Trial),0.0
+USR061741,2025-03-25 00:00:00,North,Meta Ads,30.02,3,0,None (Expired Trial),0.0
+USR080661,2025-08-10 00:00:00,North,Meta Ads,170.22,12,1,Basic Monthly,499.0
+USR096337,2025-12-03 00:00:00,North,Meta Ads,44.05,5,1,Basic Monthly,499.0
+USR012270,2024-03-30 00:00:00,South,Google Ads,31.62,2,0,None (Expired Trial),0.0
+USR005712,2024-02-11 00:00:00,South,Google Ads,29.48,3,0,None (Expired Trial),0.0
+USR095740,2025-11-29 00:00:00,North,Meta Ads,28.07,1,0,None (Expired Trial),0.0
+USR087353,2025-09-28 00:00:00,West,Meta Ads,25.61,1,0,None (Expired Trial),0.0
+USR057922,2025-02-25 00:00:00,East,YouTube Organic,76.71,11,1,Basic Monthly,499.0
+USR092143,2025-11-02 00:00:00,West,YouTube Organic,90.5,12,1,Premium Annual,7999.0
+USR048645,2024-12-20 00:00:00,West,LinkedIn Business,14.99,1,1,Premium Monthly,999.0
+USR076246,2025-07-10 00:00:00,North,YouTube Organic,56.19,8,0,None (Expired Trial),0.0
+USR063803,2025-04-10 00:00:00,North,Google Ads,22.01,1,0,None (Expired Trial),0.0
+USR000135,2024-01-02 00:00:00,East ,Google Ads,30.91,1,0,None (Expired Trial),0.0
+USR049339,2024-12-25 00:00:00,South,Google Ads,55.16,7,0,None (Expired Trial),0.0
+USR015884,2024-04-25 00:00:00,East,Meta Ads,29.64,2,0,None (Expired Trial),0.0
+USR076438,2025-07-11 00:00:00,North,Google Ads,44.57,2,1,Premium Monthly,999.0
+USR010964,2024-03-21 00:00:00,South,Google Ads,43.05,4,0,None (Expired Trial),0.0
+USR074748,2025-06-29 00:00:00,East,Google Ads,8.38,1,0,None (Expired Trial),0.0
+USR096847,2025-12-07 00:00:00,North,Meta Ads,26.37,3,0,None (Expired Trial),0.0
+USR090511,2025-10-21 00:00:00,South,Meta Ads,32.75,1,0,None (Expired Trial),0.0
+USR075945,2025-07-08 00:00:00,West,Meta Ads,79.31,6,0,None (Expired Trial),0.0
+USR001577,2024-01-12 00:00:00,North,,20.4,1,0,None (Expired Trial),0.0
+USR006152,2024-02-14 00:00:00,N_Reg,Google Ads,38.69,4,0,None (Expired Trial),0.0
+USR033948,2024-09-03 00:00:00,North,Meta Ads,128.12,8,1,Premium Monthly,999.0
+USR068769,2025-05-17 00:00:00,South,LinkedIn Business,34.26,1,0,None (Expired Trial),0.0
+USR032003,2024-08-20 00:00:00,South,Meta Ads,198.7,29,1,Basic Monthly,499.0
+USR025085,2024-07-01 00:00:00,West,Google Ads,69.16,4,0,None (Expired Trial),0.0
+USR040536,2024-10-21 00:00:00,West,Google Ads,23.82,1,0,None (Expired Trial),0.0
+USR001231,2024-01-10 00:00:00,East,Meta Ads,53.34,4,1,Premium Annual,7999.0
+USR001046,2024-01-08 00:00:00,North,Google Ads,48.71,6,0,None (Expired Trial),0.0
+USR038602,2024-10-07 00:00:00,South,Google Ads,67.26,7,0,None (Expired Trial),0.0
+USR069300,2025-05-21 00:00:00,South,Meta Ads,23.17,1,0,None (Expired Trial),0.0
+USR055079,2025-02-04 00:00:00,North,,15.35,1,0,None (Expired Trial),0.0
+USR077900,2025-07-22 00:00:00,South,YouTube Organic,79.52,8,0,None (Expired Trial),0.0
+USR083318,2025-08-29 00:00:00,West,Google Ads,11.5,1,0,None (Expired Trial),0.0
+USR008711,2024-03-04 00:00:00,North,Meta Ads,204.75,21,0,None (Expired Trial),0.0
+USR042379,2024-11-04 00:00:00,South ,Google Ads,34.7,3,0,None (Expired Trial),0.0
+USR017832,2024-05-09 00:00:00,East,Meta Ads,70.63,5,0,None (Expired Trial),0.0
+USR013344,2024-04-07 00:00:00,South,Google Ads,61.13,4,1,Basic Monthly,499.0
+USR056861,2025-02-17 00:00:00,North,LinkedIn Business,146.3,8,1,Premium Monthly,999.0
+USR033732,2024-09-02 00:00:00,South,Google Ads,78.35,6,1,Premium Monthly,999.0
+USR021005,2024-06-02 00:00:00,north,Google Ads,20.12,2,0,None (Expired Trial),0.0
+USR033884,2024-09-03 00:00:00,East,Google Ads,52.99,4,1,Basic Monthly,499.0
+USR037637,2024-09-30 00:00:00,South,Google Ads,96.9,8,1,Premium Monthly,999.0
+USR055452,2025-02-07 00:00:00,North,Google Ads,33.09,3,0,None (Expired Trial),0.0
+USR077263,2025-07-17 00:00:00,East,Meta Ads,13.36,1,0,None (Expired Trial),0.0
+USR003947,2024-01-29 00:00:00,West,Google Ads,33.94,3,0,None (Expired Trial),0.0
+USR060980,2025-03-20 00:00:00,East,Meta Ads,33.68,2,0,None (Expired Trial),0.0
+USR070707,2025-05-31 00:00:00,West,,59.15,8,0,None (Expired Trial),0.0
+USR021291,2024-06-04 00:00:00,East,Google Ads,26.09,3,0,None (Expired Trial),0.0
+USR087299,2025-09-28 00:00:00,North,Google Ads,17.35,0,0,None (Expired Trial),0.0
+USR014882,2024-04-18 00:00:00,North,YouTube Organic,167.07,21,1,Basic Monthly,499.0
+USR084408,2025-09-06 00:00:00,South,Google Ads,46.77,5,0,None (Expired Trial),0.0
+USR033272,2024-08-29 00:00:00,North,YouTube Organic,17.49,1,1,Premium Annual,7999.0
+USR035915,2024-09-17 00:00:00,East,Meta Ads,37.43,1,0,None (Expired Trial),0.0
+USR059094,2025-03-06 00:00:00,East,Meta Ads,23.56,3,0,None (Expired Trial),0.0
+USR034291,2024-09-06 00:00:00,West,Google Ads,42.37,4,1,Basic Monthly,499.0
+USR004073,2024-01-30 00:00:00,West,LinkedIn Business,91.08,10,1,Premium Monthly,999.0
+USR008951,2024-03-06 00:00:00,West,Google Ads,36.0,4,0,None (Expired Trial),0.0
+USR021969,2024-06-09 00:00:00,North,Google Ads,39.25,5,1,Premium Monthly,999.0
+USR038237,2024-10-04 00:00:00,North,YouTube Organic,106.37,11,1,Basic Monthly,499.0
+USR021085,2024-06-02 00:00:00,North,Google Ads,71.08,6,0,None (Expired Trial),0.0
+USR049020,2024-12-23 00:00:00,South,Meta Ads,52.86,3,0,None (Expired Trial),0.0
+USR073829,2025-06-22 00:00:00,North,Meta Ads,89.3,7,0,None (Expired Trial),0.0
+USR042575,2024-11-05 00:00:00,South,Meta Ads,92.13,8,0,None (Expired Trial),0.0
+USR082838,2025-08-26 00:00:00,West,Meta Ads,61.44,7,1,Premium Monthly,999.0
+USR063942,2025-04-11 00:00:00,East,LinkedIn Business,66.03,4,0,None (Expired Trial),0.0
+USR006764,2024-02-19 00:00:00,East,Meta Ads,42.06,2,0,None (Expired Trial),0.0
+USR002451,2024-01-18 00:00:00,South,Meta Ads,-76.09,7,0,None (Expired Trial),0.0
+USR033402,2024-08-30 00:00:00,north,Meta Ads,130.5,16,0,None (Expired Trial),0.0
+USR056073,2025-02-12 00:00:00,North,YouTube Organic,22.34,1,0,None (Expired Trial),0.0
+USR076033,2025-07-08 00:00:00,East,LinkedIn Business,36.78,4,0,None (Expired Trial),0.0
+USR021139,2024-06-03 00:00:00,West,Meta Ads,66.22,4,0,None (Expired Trial),0.0
+USR001939,2024-01-15 00:00:00,North,LinkedIn Business,42.0,5,0,None (Expired Trial),0.0
+USR049763,2024-12-28 00:00:00,East,Google Ads,40.03,2,1,Premium Monthly,999.0
+USR083875,2025-09-03 00:00:00,South,LinkedIn Business,46.95,3,1,Premium Monthly,999.0
+USR057342,2025-02-21 00:00:00,South,Meta Ads,224.73,19,1,Premium Monthly,999.0
+USR035030,2024-09-11 00:00:00,East,LinkedIn Business,120.61,17,1,Premium Annual,7999.0
+USR011736,2024-03-26 00:00:00,North,Meta Ads,65.13,8,0,None (Expired Trial),0.0
+USR074873,2025-06-30 00:00:00,West,LinkedIn Business,12.64,1,0,None (Expired Trial),0.0
+USR045326,2024-11-26 00:00:00,South,Google Ads,8.72,0,0,None (Expired Trial),0.0
+USR058784,2025-03-03 00:00:00,W_Reg,Google Ads,24.23,2,0,None (Expired Trial),0.0
+USR084640,2025-09-08 00:00:00,North,Meta Ads,42.5,2,0,None (Expired Trial),0.0
+USR032278,2024-08-22 00:00:00,East,Google Ads,27.92,2,0,None (Expired Trial),0.0
+USR040609,2024-10-22 00:00:00,North,LinkedIn Business,22.27,3,0,None (Expired Trial),0.0
+USR078336,2025-07-25 00:00:00,West,Meta Ads,80.34,11,1,Premium Monthly,999.0
+USR060790,2025-03-18 00:00:00,North,Google Ads,8.27,0,0,None (Expired Trial),0.0
+USR091991,2025-11-01 00:00:00,North,Google Ads,41.64,3,0,None (Expired Trial),0.0
+USR029168,2024-07-31 00:00:00,South,Meta Ads,197.33,16,1,Premium Monthly,999.0
+USR051487,2025-01-10 00:00:00,West,Google Ads,28.82,2,0,None (Expired Trial),0.0
+USR053061,2025-01-21 00:00:00,East,Meta Ads,136.39,17,0,None (Expired Trial),0.0
+USR098356,2025-12-19 00:00:00,South,,48.5,2,0,None (Expired Trial),0.0
+USR007876,2024-02-27 00:00:00,West,Meta Ads,27.88,3,0,None (Expired Trial),0.0
+USR059463,2025-03-09 00:00:00,North,Google Ads,45.06,4,0,None (Expired Trial),0.0
+USR045260,2024-11-25 00:00:00,East,Google Ads,40.61,2,0,None (Expired Trial),0.0
+USR061460,2025-03-23 00:00:00,West,Meta Ads,13.88,1,0,None (Expired Trial),0.0
+USR075786,2025-07-06 00:00:00,North,Meta Ads,28.07,2,0,None (Expired Trial),0.0
+USR002624,2024-01-20 00:00:00,South,Google Ads,42.93,2,0,None (Expired Trial),0.0
+USR050500,2025-01-03 00:00:00,West,Meta Ads,78.04,7,0,None (Expired Trial),0.0
+USR021784,2024-06-07 00:00:00,North,YouTube Organic,28.46,2,0,None (Expired Trial),0.0
+USR093686,2025-11-13 00:00:00,South,YouTube Organic,34.32,1,0,None (Expired Trial),0.0
+USR073777,2025-06-22 00:00:00,North,YouTube Organic,50.54,6,1,Basic Monthly,499.0
+USR034515,2024-09-07 00:00:00,West,LinkedIn Business,21.1,1,0,None (Expired Trial),0.0
+USR065976,2025-04-26 00:00:00,South,Google Ads,75.59,7,0,None (Expired Trial),0.0
+USR095569,2025-11-28 00:00:00,North,Google Ads,17.18,2,0,None (Expired Trial),0.0
+USR001551,2024-01-12 00:00:00,West,Google Ads,105.72,7,0,None (Expired Trial),0.0
+USR042152,2024-11-02 00:00:00,North,Google Ads,31.38,2,0,None (Expired Trial),0.0
+USR011646,2024-03-25 00:00:00,West,YouTube Organic,39.65,2,0,None (Expired Trial),0.0
+USR020229,2024-05-27 00:00:00,East,Meta Ads,109.95,11,1,Premium Monthly,999.0
+USR093896,2025-11-15 00:00:00,West,YouTube Organic,28.76,2,0,None (Expired Trial),0.0
+USR099516,2025-12-27 00:00:00,North,YouTube Organic,43.73,4,0,None (Expired Trial),0.0
+USR007917,2024-02-27 00:00:00,North,Meta Ads,44.13,4,1,Basic Monthly,499.0
+USR098326,2025-12-18 00:00:00,North,Meta Ads,29.75,3,0,None (Expired Trial),0.0
+USR051229,2025-01-08 00:00:00,East,LinkedIn Business,209.15,13,0,None (Expired Trial),0.0
+USR056672,2025-02-16 00:00:00,North,LinkedIn Business,71.43,7,0,None (Expired Trial),0.0
+USR042351,2024-11-04 00:00:00,North,Meta Ads,71.74,9,1,Basic Monthly,499.0
+USR039101,2024-10-11 00:00:00,North,LinkedIn Business,50.43,6,1,Premium Annual,7999.0
+USR083990,2025-09-03 00:00:00,South,LinkedIn Business,27.47,2,0,None (Expired Trial),0.0
+USR005961,2024-02-13 00:00:00,W_Reg,Meta Ads,15.34,1,0,None (Expired Trial),0.0
+USR031632,2024-08-17 00:00:00,North,YouTube Organic,54.22,7,1,Basic Monthly,499.0
+USR068281,2025-05-13 00:00:00,East,Meta Ads,16.93,1,0,None (Expired Trial),0.0
+USR058790,2025-03-03 00:00:00,South,Google Ads,49.56,2,1,Basic Monthly,499.0
+USR058914,2025-03-04 00:00:00,N_Reg,Google Ads,16.64,1,0,None (Expired Trial),0.0
+USR053241,2025-01-22 00:00:00,North,Google Ads,49.88,6,0,None (Expired Trial),0.0
+USR043680,2024-11-14 00:00:00,South,Google Ads,31.04,2,0,None (Expired Trial),0.0
+USR060856,2025-03-19 00:00:00,South,Meta Ads,23.64,3,0,None (Expired Trial),0.0
+USR099859,2025-12-30 00:00:00,East,Meta Ads,33.39,4,0,None (Expired Trial),0.0
+USR056993,2025-02-18 00:00:00,West,LinkedIn Business,40.57,2,0,None (Expired Trial),0.0
+USR093635,2025-11-13 00:00:00,West,Meta Ads,90.28,9,1,Basic Monthly,499.0
+USR093190,2025-11-10 00:00:00,East,YouTube Organic,19.7,1,1,Basic Monthly,499.0
+USR040651,2024-10-22 00:00:00,North,YouTube Organic,20.04,1,0,None (Expired Trial),0.0
+USR004206,2024-01-31 00:00:00,North,Google Ads,18.4,1,0,None (Expired Trial),0.0
+USR060976,2025-03-19 00:00:00,North,Google Ads,118.06,15,1,Basic Monthly,499.0
+USR095367,2025-11-26 00:00:00,North,Meta Ads,27.01,1,0,None (Expired Trial),0.0
+USR077118,2025-07-16 00:00:00,North,Meta Ads,212.73,18,1,Basic Monthly,499.0
+USR069833,2025-05-25 00:00:00,East,Meta Ads,11.0,1,0,None (Expired Trial),0.0
+USR069131,2025-05-19 00:00:00,South,LinkedIn Business,12.37,1,0,None (Expired Trial),0.0
+USR057417,2025-02-21 00:00:00,North,Google Ads,77.87,5,0,None (Expired Trial),0.0
+USR048081,2024-12-16 00:00:00,South,Meta Ads,34.44,3,0,None (Expired Trial),0.0
+USR033895,2024-09-03 00:00:00,North,Meta Ads,69.08,9,1,Basic Monthly,499.0
+USR027647,2024-07-20 00:00:00,N_Reg,Google Ads,24.28,2,0,None (Expired Trial),0.0
+USR067234,2025-05-06 00:00:00,North,Google Ads,83.39,10,1,Premium Monthly,999.0
+USR092349,2025-11-04 00:00:00,South,Google Ads,51.69,5,0,None (Expired Trial),0.0
+USR069588,2025-05-23 00:00:00,north,Google Ads,81.25,11,1,Premium Monthly,999.0
+USR098867,2025-12-22 00:00:00,South,Google Ads,27.04,1,0,None (Expired Trial),0.0
+USR034117,2024-09-04 00:00:00,South,Meta Ads,23.26,1,0,None (Expired Trial),0.0
+USR032924,2024-08-27 00:00:00,South,LinkedIn Business,23.29,3,0,None (Expired Trial),0.0
+USR012561,2024-04-01 00:00:00,East,Meta Ads,109.33,12,0,None (Expired Trial),0.0
+USR018238,2024-05-12 00:00:00,South ,Meta Ads,104.1,5,0,None (Expired Trial),0.0
+USR063649,2025-04-09 00:00:00,South,Meta Ads,25.3,2,0,None (Expired Trial),0.0
+USR020773,2024-05-31 00:00:00,West,Google Ads,65.82,9,0,None (Expired Trial),0.0
+USR043718,2024-11-14 00:00:00,North,Meta Ads,144.28,8,0,None (Expired Trial),0.0
+USR005639,2024-02-11 00:00:00,East,,19.2,1,1,Premium Monthly,999.0
+USR086518,2025-09-22 00:00:00,South,Google Ads,68.33,4,1,Basic Monthly,499.0
+USR053416,2025-01-23 00:00:00,South,Meta Ads,84.69,4,0,None (Expired Trial),0.0
+USR038373,2024-10-05 00:00:00,S_Reg,Google Ads,125.5,7,0,None (Expired Trial),0.0
+USR050430,2025-01-02 00:00:00,East,Google Ads,62.83,7,1,Basic Monthly,499.0
+USR038225,2024-10-04 00:00:00,South,LinkedIn Business,121.82,10,1,Basic Monthly,499.0
+USR007316,2024-02-23 00:00:00,South,Meta Ads,32.46,2,0,None (Expired Trial),0.0
+USR083213,2025-08-29 00:00:00,South,YouTube Organic,58.92,6,0,None (Expired Trial),0.0
+USR011418,2024-03-24 00:00:00,West,Meta Ads,165.39,21,1,Basic Monthly,499.0
+USR067256,2025-05-06 00:00:00,east,Google Ads,56.18,3,0,None (Expired Trial),0.0
+USR063924,2025-04-11 00:00:00,South,Google Ads,22.56,2,0,None (Expired Trial),0.0
+USR006348,2024-02-16 00:00:00,North,Meta Ads,119.58,8,0,None (Expired Trial),0.0
+USR052548,2025-01-17 00:00:00,South,Google Ads,104.27,8,0,None (Expired Trial),0.0
+USR097914,2025-12-15 00:00:00,South,Google Ads,22.54,1,0,None (Expired Trial),0.0
+USR062847,2025-04-03 00:00:00,East,Meta Ads,35.15,2,0,None (Expired Trial),0.0
+USR089016,2025-10-11 00:00:00,South,Google Ads,44.84,5,0,None (Expired Trial),0.0
+USR005146,2024-02-07 00:00:00,East,Google Ads,17.18,1,0,None (Expired Trial),0.0
+USR000648,2024-01-05 00:00:00,North,Google Ads,34.72,2,1,Basic Monthly,499.0
+USR044104,2024-11-17 00:00:00,West,YouTube Organic,76.86,5,1,Basic Monthly,499.0
+USR063419,2025-04-07 00:00:00,East,Google Ads,11.65,0,0,None (Expired Trial),0.0
+USR034110,2024-09-04 00:00:00,North,Meta Ads,23.97,1,0,None (Expired Trial),0.0
+USR067124,2025-05-05 00:00:00,South,Meta Ads,140.85,12,1,Basic Monthly,499.0
+USR011617,2024-03-25 00:00:00,North,Meta Ads,24.73,2,0,None (Expired Trial),0.0
+USR060864,2025-03-19 00:00:00,West,YouTube Organic,33.1,2,1,Premium Monthly,999.0
+USR006212,2024-02-15 00:00:00,West,Google Ads,42.28,2,0,None (Expired Trial),0.0
+USR050192,2024-12-31 00:00:00,North,Google Ads,51.71,3,1,Premium Annual,7999.0
+USR070703,2025-05-31 00:00:00,West,Meta Ads,71.35,6,0,None (Expired Trial),0.0
+USR094535,2025-11-20 00:00:00,N_Reg,Meta Ads,79.09,6,0,None (Expired Trial),0.0
+USR017309,2024-05-05 00:00:00,North,,99.68,9,0,None (Expired Trial),0.0
+USR031197,2024-08-14 00:00:00,North,Meta Ads,30.4,2,0,None (Expired Trial),0.0
+USR082514,2025-08-24 00:00:00,West,Meta Ads,66.45,7,0,None (Expired Trial),0.0
+USR021438,2024-06-05 00:00:00,South,Google Ads,21.5,2,0,None (Expired Trial),0.0
+USR002939,2024-01-22 00:00:00,East,Meta Ads,15.18,1,0,None (Expired Trial),0.0
+USR096041,2025-12-01 00:00:00,North,Meta Ads,29.96,3,0,None (Expired Trial),0.0
+USR063609,2025-04-08 00:00:00,North,YouTube Organic,113.87,12,1,Premium Monthly,999.0
+USR050320,2025-01-01 00:00:00,East,Google Ads,50.84,6,0,None (Expired Trial),0.0
+USR084016,2025-09-04 00:00:00,North,Meta Ads,,3,0,None (Expired Trial),0.0
+USR081206,2025-08-15 00:00:00,North,Google Ads,27.8,3,0,None (Expired Trial),0.0
