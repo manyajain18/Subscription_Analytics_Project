@@ -237,9 +237,7 @@ Key insights included:
 
 * Month-on-Month (MoM) Revenue Growth
 * Revenue vs Users Trend Analysis
-* Revenue Growth Tracking
-* Financial Performance Trends
-* Cumulative Revenue Analysis
+
 
 # 🔑 Key Business Insights
 
@@ -336,6 +334,13 @@ The project helped strengthen practical skills in:
 * SQL business analytics
 * Database integration
 * Power BI dashboard development
+
+# Author
+Manya Jain
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 * Business storytelling through data
 
 Overall, this project reflects an end-to-end analytics workflow commonly used in real-world data analytics and business intelligence environments.
