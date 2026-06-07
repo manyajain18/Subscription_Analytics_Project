@@ -334,6 +334,9 @@ The project helped strengthen practical skills in:
 * SQL business analytics
 * Database integration
 * Power BI dashboard development
+* Business storytelling through data
+
+Overall, this project reflects an end-to-end analytics workflow commonly used in real-world data analytics and business intelligence environments.
 
 # Author
 Manya Jain
@@ -341,6 +344,3 @@ Manya Jain
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-* Business storytelling through data
-
-Overall, this project reflects an end-to-end analytics workflow commonly used in real-world data analytics and business intelligence environments.
